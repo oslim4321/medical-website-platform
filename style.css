@@ -1,8 +1,8 @@
 /* =====================================
-Template Name: 	Mediplus.
+Template Name: 	Happiness.
 Author Name: Naimur Rahman
 Website: http://wpthemesgrid.com/
-Description: Mediplus - Doctor HTML Template.
+Description: Happiness - Doctor HTML Template.
 Version:	1.1
 ========================================*/
 /*======================================
@@ -310,6 +310,14 @@ body {
 .header .logo {
   float: left;
   margin-top: 18px;
+}
+.header .logo a {
+  font-size: 30px;
+  font-weight: 700;
+  color: black;
+}
+.header .logo a span {
+  color: #1a76d1;
 }
 .header .navbar {
   background: none;
