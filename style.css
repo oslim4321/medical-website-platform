@@ -4180,3 +4180,29 @@ body {
 /*=========================
 	End Footer CSS
 ===========================*/
+
+/* cac */
+
+.cac-section {
+  padding: 50px 0;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.cac-section .section-title h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.cac-section .section-title p {
+  font-size: 16px;
+  color: #666;
+}
+
+.cac-section .cac-image img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
