@@ -54,6 +54,10 @@ body {
   font-size: 14px;
   color: #888;
 }
+
+.logo a {
+  line-height: 35px;
+}
 .pro-features {
   position: fixed;
   right: -300px;
