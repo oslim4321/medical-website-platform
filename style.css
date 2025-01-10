@@ -58,9 +58,10 @@ body {
   width: 200px;
 }
 
-/* .logo a {
-  line-height: 35px;
-} */
+.logo a {
+  line-height: 45px;
+  letter-spacing: 1px;
+}
 .pro-features {
   position: fixed;
   right: -300px;
